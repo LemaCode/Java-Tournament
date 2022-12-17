@@ -1,6 +1,4 @@
 // Name: Manasse Bosango
-// Date: 05/09/20222
-// Classs: CS210
 // Reason: Understand the importance and the use of while loop and do while loop and boolean type.
 
 import java.util.Scanner;
